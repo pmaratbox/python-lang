@@ -1,0 +1,6 @@
+n = int("42")
+f = float("3.5")
+s = str(n)
+print(f"int: {n}")
+print(f"float: {f}")
+print(f"str: {s}")
