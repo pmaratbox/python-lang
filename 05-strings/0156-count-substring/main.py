@@ -1,0 +1,1 @@
+print("ababab".count("ab"))
